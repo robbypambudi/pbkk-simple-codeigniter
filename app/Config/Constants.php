@@ -99,4 +99,4 @@ define('EVENT_PRIORITY_HIGH', 10);
 |--------------------------------------------------------------------------
  */
 
-define('SITE_NAME', 'PBKK CI4 Agfi');
+define('SITE_NAME', 'PBKK CI4 Robby');
