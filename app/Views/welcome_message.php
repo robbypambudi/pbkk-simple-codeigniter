@@ -557,7 +557,7 @@
 
     <!-- FOOTER -->
     <footer>
-        Copyright © 2022 Thariq Agfi Hermawan - All Rights Reserved
+        Copyright © 2022 Robby Ulung Pambudi - All Rights Reserved
     </footer>
 </body>
 
